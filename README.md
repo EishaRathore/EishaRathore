@@ -1,4 +1,12 @@
-<h3>Hi! 👋<br>I'm Eisha Butt<br>a Computer Scientist</h3>
+<h3>Hi!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px"><br>I'm Eisha Butt<br>a Computer Scientist</h3> 
+<p align="center">
+  
+![](https://komarev.com/ghpvc/?username=EishaButt&color=blueviolet&label=Profile+Views)
+<!--
+<img src = "https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt = "Medium" />
+  -->
+ 
+</p>
 <!--<h6>I build <a href="https://stephenajulu.com/portfolio">websites</a>, write <a href="https://stephenajulu.com/blog">articles</a>, design <a href="https://stephenajulu.com/portfolio">graphics</a>, provide <a href="https://stephenajulu.com/book-a-consultation">advice</a> and sell <a href="https://stephenajulu.com/store">digital products</a>.<br>I have 8 years of tech experience, creating products, content and solutons while providing IT services.<br>Do you have a project or need a solution? Then ↴<br><a href="https://stephenajulu.com/contact">Contact me to get in touch now!</a></h6>-->
 
 <!-- <img src="https://github.com/wajeehamushtaq/wajeehamushtaq/blob/master/github.gif" />-->
