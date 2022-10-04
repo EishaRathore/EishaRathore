@@ -14,7 +14,8 @@
 <!-- <img src="https://github.com/wajeehamushtaq/wajeehamushtaq/blob/master/github.gif" />-->
 <br />
 
-- 👩‍🎓 Pursuing a bachelor's degree in Computer Science from the [University of Engineering & Technology Lahore](https://uet.edu.pk/)
+- 👩‍🎓 Pursuing a Master's degree in Computer Science from the [Information technology University](https://itu.edu.pk/)
+- 🎓 Bachelor's degree in Computer Science from the [University of Engineering & Technology Lahore](https://uet.edu.pk/)
 - 👀 Interested in `WebDev` currently with a focus on `Frontend` ✌️
 - 😜 Fun fact: My first line of code was not `"Hello World!"` 🎉
 - :octocat: I'm a `GitHub` user 😬
