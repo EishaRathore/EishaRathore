@@ -1,4 +1,5 @@
-[![@eisha_butt's Holopin board](https://holopin.io/api/user/board?user=eisha_butt)](https://holopin.io/@eisha_butt)
+<a href="url"><img src="https://holopin.io/api/user/board?user=eisha_butt"  height="250" width="1000" ></a>
+
 <h1 align="center">🌟 Howdy Folks's 😎</h1>   
 <!--
 **EishaButt/EishaButt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,25 +33,23 @@
 
 <hr>
 <p align="center">
- <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EishaButt&hide=python&layout=compact&theme=jolly" alt="EishaButt's Github Languages"/>
+<a href="url"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EishaButt&hide=python&layout=compact&theme=jolly"  height="148" width="348" ></a>
 <p/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EishaButt&show_icons=true&theme=jolly" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EishaButt&theme=jolly" />
+<a href="url"><img src="https://github-readme-stats.vercel.app/api?username=EishaButt&show_icons=true&theme=jolly"  height="148" width="348" ></a>
+<a href="url"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EishaButt&theme=jolly"  height="148" width="348" ></a>
 </p>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=EishaButt&theme=dracula)](https://github.com/EishaButt/github-readme-activity-graph)
+
+<a href="url"><img src="https://raw.githubusercontent.com/rithiksarab/rithiksarab/snakeAsset/github-contribution-grid-snake.svg" align="center" height="148" width="1048" ></a>
+<br />
+<!-- <img width="100px" src="https://raw.githubusercontent.com/rithiksarab/rithiksarab/snakeAsset/github-contribution-grid-snake.svg"/>--!>
 
 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=EishaButt&bg_color=000000&color=ffffff&line=f364a2&point=ffffff&area=true&hide_border=true)
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/rithiksarab/rithiksarab/snakeAsset/github-contribution-grid-snake.svg"/>
-</p>
-
-
-### Tools & Technologies
+<h3> Tools & Technologies<h3/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" width="30" height="30"/><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" alt="Git" height="30" /><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="30" height="30"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="30" alt="C++" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="30" height="30"/>  <img src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/BuildSettings.Editor.png" alt="Unity" width="30" height="30"/>
 	
@@ -65,8 +64,13 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=eisharathore5@gmail.com" class="pics"><img src="https://user-images.githubusercontent.com/56452820/132254868-4afe403c-0c88-4023-86c5-23ef0ec7a3f7.png" height="47vh"></td>
     </table>
 	  
-----
+
 
 <p align="center"> 💻 Made with ❣️  
 <a style='text-decoration: none;' href="https://github.com/EishaButt">@EishaButt</a> 😇
 </p>
+
+
+
+
+
