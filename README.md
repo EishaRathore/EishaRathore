@@ -41,7 +41,7 @@
 <a href="url"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EishaButt&theme=jolly"  height="148" width="348" ></a>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=EishaButt&theme=dracula)](https://github.com/EishaButt/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=EishaButt&theme=dracula)](https://github.com/EishaButt/github-readme-activity-graph)
 
 <a href="url"><img src="https://raw.githubusercontent.com/rithiksarab/rithiksarab/snakeAsset/github-contribution-grid-snake.svg" align="center" height="148" width="1048" ></a>
 <br />
