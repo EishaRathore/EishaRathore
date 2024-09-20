@@ -53,7 +53,9 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=eisharathore5@gmail.com" class="pics"><img src="https://user-images.githubusercontent.com/56452820/132254868-4afe403c-0c88-4023-86c5-23ef0ec7a3f7.png" height="47vh"></td>
     </table>
 
-<img src="https://tryhackme.com/badge/2375450"></img>
+Here is my TryHackMe badge:
+
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/2375450.png)
 	  
 
 
