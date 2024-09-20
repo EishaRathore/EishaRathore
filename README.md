@@ -55,7 +55,7 @@
 
 Here is my TryHackMe badge:
 
-![TryHackMe]("https://tryhackme-badges.s3.amazonaws.com/eisharathore5.png")
+<img src="https://tryhackme-badges.s3.amazonaws.com/eisharathore5.png" alt="TryHackMe">
 	  
 
 
