@@ -8,8 +8,8 @@
   
 💥 ![](https://komarev.com/ghpvc/?username=EishaButt&color=blueviolet&label=Profile+Views)💥 
 </p>
-<a href="https://github.com/EishaButt"><img width="35%" align="right" alt="EishaButt" src="https://github-profile-trophy.vercel.app/?username=EishaButt&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a>
-<h3>Hi!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px"><br>I'm Eisha Butt 😇<br>a Computer Scientist</h3> 
+<a href="https://github.com/EishaButt"><img width="35%" align="right" alt="EishaButt" src="https://avatars.githubusercontent.com/u/46721882?v=4" /></a>
+<h3>Hi!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif?raw=true" width="29px"><br>I'm Eisha Butt 😇<br>a Computer Scientist</h3> 
 
 <br />
 
@@ -21,21 +21,6 @@
 - ⏳ At off hours `Netflix` 📺
 - 🤹‍♀️ Hobbies: `Calligraphy`, `Painting` and `Graphic Designing`
 - ❣️ to `sleep` 💤
-
-
-
-<hr>
-<p align="center">
-<a href="url"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EishaButt&hide=python&layout=compact&theme=jolly"  height="148" width="348" ></a>
-<p/>
-
-<p align="center">
-<a href="url"><img src="https://github-readme-stats.vercel.app/api?username=EishaButt&show_icons=true&theme=jolly"  height="148" width="348" ></a>
-<a href="url"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EishaButt&theme=jolly"  height="148" width="348" ></a>
-</p>
-
-[![](https://activity-graph.herokuapp.com/graph?username=EishaButt&theme=dracula)](https://github.com/EishaButt/github-readme-activity-graph)
-
 <br />
 
 <h3> Tools & Technologies<h3/>
@@ -61,7 +46,7 @@ Here is my TryHackMe badge:
 
 
 <p align="center"> 💻 Made with ❣️  
-<a style='text-decoration: none;' href="https://github.com/EishaButt">@EishaButt</a> 😇
+<a style='text-decoration: none;' href="https://github.com/EishaButt">@Eisha Rathore</a> 😇
 </p>
 
 
