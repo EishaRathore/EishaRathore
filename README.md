@@ -41,7 +41,7 @@
 
 Here is my TryHackMe badge:
 <h1 align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/eisharathore5.png" alt="TryHackMe">
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2375450" style='border:none;'></iframe>
 </h1>	  
 
 
